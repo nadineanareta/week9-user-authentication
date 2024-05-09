@@ -1,13 +1,32 @@
 {
   "project_info": {
-    "project_number": "97869778981",
-    "project_id": "week9-user-authentication",
-    "storage_bucket": "week9-user-authentication.appspot.com"
+    "project_number": "836343937158",
+    "project_id": "nadz-sample",
+    "storage_bucket": "nadz-sample.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:97869778981:android:ed5cc80da6f5f59089efcc",
+        "mobilesdk_app_id": "1:836343937158:android:ad1c5274d5165a1d373907",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdoIK_9SQ7ZveCu3v3OilKLzT77wFVAWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836343937158:android:6996beb2637cc22d373907",
         "android_client_info": {
           "package_name": "com.example.week9_authentication"
         }
@@ -15,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyC6heRq0Ed-GWb_Dnfi67VRz4QTeJRHp08"
+          "current_key": "AIzaSyCdoIK_9SQ7ZveCu3v3OilKLzT77wFVAWg"
         }
       ],
       "services": {
